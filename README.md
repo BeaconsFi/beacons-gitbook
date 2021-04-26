@@ -1,1 +1,2 @@
-# beacons-gitbook
+# Initial page
+
